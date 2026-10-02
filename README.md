@@ -1,4 +1,4 @@
-# Chirag Yadav - personal website
+# Chirag Yadav - Personal Website
 
 Source for my personal website: https://chirag-ydv.github.io/
 
