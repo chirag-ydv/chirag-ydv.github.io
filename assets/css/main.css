@@ -51,3 +51,6 @@ footer { margin-top: auto; padding-top: 20px; border-top: 1px solid var(--rule);
   .side img { max-width: 180px }
   .page-about .brand { display: none }
 }
+@media (min-width: 900px) {
+  .side { margin-top: -60px }
+}
